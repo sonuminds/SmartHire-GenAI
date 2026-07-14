@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+pandas
+numpy
+pypdf
+python-docx
+faiss-cpu
+sentence-transformers
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+pypdf2
+tqdm
+scikit-learn
